@@ -1,6 +1,3 @@
-Here’s the README rewritten in GitHub-friendly code block format:
-
-```markdown
 # Amazon Product Data Scraper
 
 A Python script to scrape product details from Amazon and save the data into a CSV file. This tool is ideal for tracking product prices, ratings, and availability over time.
