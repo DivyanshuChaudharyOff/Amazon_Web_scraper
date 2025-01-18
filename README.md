@@ -13,6 +13,7 @@ A Python script to scrape product details from Amazon and save the data into a C
   - Availability
   - Number of Reviews
   - Timestamp of the scrape
+  - .
 
 - **Error Handling**: Gracefully manages missing data or connection issues.
 - **CSV Storage**: Appends new data to an existing CSV or creates a new one if it doesn’t exist.
